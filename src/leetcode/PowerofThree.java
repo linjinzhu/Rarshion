@@ -21,6 +21,7 @@ public class PowerofThree {
     }
 
 
+
     public static boolean isPowerOfFour(int n) {
         if(n == 0)
             return false;
@@ -42,6 +43,6 @@ public class PowerofThree {
 
         //System.out.println(isPowerOfThree(9));
 
-        System.out.println(isPowerOfFour(9));
+        //System.out.println(isPowerOfFour(9));
     }
 }
