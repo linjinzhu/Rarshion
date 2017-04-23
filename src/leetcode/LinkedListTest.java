@@ -3,7 +3,7 @@ package leetcode;
 /**
  * Created by user on 2016/8/9.
  */
-public class LinkedList {
+public class LinkedListTest {
 
     public ListNode deleteDuplicates(ListNode head) {
         if(head == null)

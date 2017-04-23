@@ -1,0 +1,32 @@
+package EffectiveJava;
+
+import java.util.*;
+
+/**
+ * Created by rarshion on 16/11/10.
+ */
+public class CollectionClassifier {
+    public static String classify(Set<?> s) {
+        return "Set";
+    }
+
+    public static String classify(List<?> lst) {
+        return "List";
+    }
+
+    public static String classify(Collection<?> c) {
+        return "unkown collection";
+    }
+
+    public static void main(String[] args) {
+        Collection<?>[] collections = {
+            new HashSet<String>(),
+            new ArrayList<String>(),
+            new HashMap<String, String>().values()
+        };
+
+        for (Collection<?> c : collections) {
+            System.out.println(classify(c));
+        }
+    }
+}

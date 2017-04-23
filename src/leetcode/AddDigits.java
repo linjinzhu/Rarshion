@@ -23,8 +23,14 @@ public class AddDigits {
         return num;
     }
 
+    public static void test(final String test){
+        //test = "hello";
+        System.out.println(test);
+    }
+
     public static void main(String[] args){
-        System.out.println(addDigits(73));
+        //System.out.println(addDigits(73));
+        test("hello");
     }
 
 }
