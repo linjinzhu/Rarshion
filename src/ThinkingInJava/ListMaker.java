@@ -1,6 +1,7 @@
 package ThinkingInJava;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -13,7 +14,8 @@ public class ListMaker<T> {
     }
 
     public static void main(String[] args){
-
+        int[] a = new int[27];
+        Arrays.fill(a, -1);
     }
 
 }
