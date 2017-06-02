@@ -7,7 +7,7 @@ import java.util.Stack;
  */
 public class BasicCalculatorII {
 
-    public int calculate(String s) {
+    public static int calculate(String s) {
 
         if (s == null || s.length() == 0)
             return 0;
@@ -38,6 +38,7 @@ public class BasicCalculatorII {
                         nums.push(a / b);
                     }
                 }
+                count = 0;
             }
 
             if (!Character.isDigit(temp)) {
@@ -75,5 +76,9 @@ public class BasicCalculatorII {
         }
 
         return nums.pop();
+    }
+
+    public static void main(String[] args) {
+        System.out.println(calculate("1+2"));
     }
 }
