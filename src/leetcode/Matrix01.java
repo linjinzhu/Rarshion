@@ -39,7 +39,6 @@ public class Matrix01 {
                 if (row < 0 || row >= m || col < 0 || col >= n) {
                     continue;
                 }
-
                 int value = matrix[row][col];
                 int tmp = matrix[cell[0]][cell[1]] + 1;
                 if (value <= tmp) continue;
