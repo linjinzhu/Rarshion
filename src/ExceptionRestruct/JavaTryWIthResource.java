@@ -20,13 +20,23 @@ public class JavaTryWIthResource {
     }
 
 
-    public static void JavaTryWIthResource() throws Exception {
-        try(MyOutputStream mos = new MyOutputStream()) {
-            throw new IOException("Function fail");
-        }
-    }
 
     public static void main(String[] args) {
+        try {
+            cleanupFailureInTryWithResources();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+//    public static void JavaTryWIthResource() throws Exception {
+//        try(MyOutputStream mos = new MyOutputStream()) {
+//            throw new IOException("Function fail");
+//        }
+//    }
+
+
 //        try {
 ////            JavaTryWIthResource();
 //            cleanupFailureInTryWithResources();
@@ -41,13 +51,10 @@ public class JavaTryWIthResource {
 //        List<Integer> t1 = test.subList(0,3);
 //        List<Integer> t2 = test.subList(7,7);
 
-        try {
-            throw new IOException();
-        } catch (IOException ex) {
-
-        }
-        System.out.println("2");
-        return;
-
-    }
-}
+//        try {
+//                throw new IOException();
+//                } catch (IOException ex) {
+//
+//                }
+//                System.out.println("2");
+//                return;

@@ -22,7 +22,7 @@ public class TableCreator {
             String tableNaem = dbTable.name();
             if(tableNaem.length() < 1)
                 tableNaem = cl.getName().toUpperCase();
-            List<String> columnDefs = new ArrayList<String>();
+            List<String> columnDefs = new ArrayList<>();
             for(Field field : cl.getDeclaredFields()){
                 String columnName = null;
                 Annotation[] anns = field.getDeclaredAnnotations();
