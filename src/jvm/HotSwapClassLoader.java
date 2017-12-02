@@ -6,5 +6,12 @@ package jvm;
  * Description :
  * Version : 2.0
  */
-public class HotSwapClassLoader {
+public class HotSwapClassLoader extends ClassLoader {
+    public HotSwapClassLoader() {
+        super(HotSwapClassLoader.class.getClassLoader());
+    }
+
+//    public class loadByte(byte[] classByte) {
+////        return defineClass(null, classByte, 0, classByte.length);
+//    }
 }

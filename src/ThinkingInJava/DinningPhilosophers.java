@@ -24,9 +24,6 @@ class Chopstick {
         taken = false;
     }
 
-    private void wait() throws InterruptedException {
-        TimeUnit.SECONDS.sleep(10);
-    }
 }
 
 class Philosopher implements Runnable {
@@ -67,7 +64,7 @@ class Philosopher implements Runnable {
 
 }
 
-public class DinningPhilophers {
+public class DinningPhilosophers {
 
     public static void main(String[] args) {
         int ponder = 5;

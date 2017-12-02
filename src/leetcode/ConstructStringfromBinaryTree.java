@@ -7,4 +7,8 @@ package leetcode;
  * Version : 2.0
  */
 public class ConstructStringfromBinaryTree {
+
+    public String tree2str(TreeNode t) {
+        return "";
+    }
 }

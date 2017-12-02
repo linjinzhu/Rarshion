@@ -1,24 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00a209b7-3eb2-4d1c-8047-659ae699cd8b" name="Default" comment="[Leetcode] 新做的一些题">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/Cleaner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/CleanupException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/JavaTryWIthResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/MyConnectionException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/MyInputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/MyOutputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExceptionRestruct/UnhandleException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8InAction/MainTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8InAction/MeaningOfThis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8InAction/Trader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java8InAction/Transaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/CompareVersionNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/FractiontoRecurringDecimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/LongestIncreasingPathinaMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leetcode/RepeatedDNASequences.java" />
+    <list default="true" id="00a209b7-3eb2-4d1c-8047-659ae699cd8b" name="Default" comment="[LeetCode][ExceptionRestruct] 异常重构与leetcode一些题">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Rarshion/leetcode/TreeNode.class" afterPath="$PROJECT_DIR$/out/production/Rarshion/leetcode/TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/Matrix01.java" afterPath="$PROJECT_DIR$/src/leetcode/Matrix01.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ThinkingInJava/DinningPhilosophers.java" afterPath="$PROJECT_DIR$/src/ThinkingInJava/DinningPhilosophers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java9InAction/New.java" afterPath="$PROJECT_DIR$/src/java9InAction/New.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jvm/HotSwapClassLoader.java" afterPath="$PROJECT_DIR$/src/jvm/HotSwapClassLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/BplusNode.java" afterPath="$PROJECT_DIR$/src/leetcode/BplusNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/BplusTree.java" afterPath="$PROJECT_DIR$/src/leetcode/BplusTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/ConstructStringfromBinaryTree.java" afterPath="$PROJECT_DIR$/src/leetcode/ConstructStringfromBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/CountBinarySubstrings.java" afterPath="$PROJECT_DIR$/src/leetcode/CountBinarySubstrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/Employee.java" afterPath="$PROJECT_DIR$/src/leetcode/Employee.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/LongestContinuousIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/leetcode/LongestContinuousIncreasingSubsequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/LongestUnivaluePath.java" afterPath="$PROJECT_DIR$/src/leetcode/LongestUnivaluePath.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/MapSumPairs.java" afterPath="$PROJECT_DIR$/src/leetcode/MapSumPairs.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/PalindromicSubstrings.java" afterPath="$PROJECT_DIR$/src/leetcode/PalindromicSubstrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/PrintBinaryTree.java" afterPath="$PROJECT_DIR$/src/leetcode/PrintBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/QueueReconstructionbyHeight.java" afterPath="$PROJECT_DIR$/src/leetcode/QueueReconstructionbyHeight.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/RangeAdditionII.java" afterPath="$PROJECT_DIR$/src/leetcode/RangeAdditionII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/RepeatedStringMatch.java" afterPath="$PROJECT_DIR$/src/leetcode/RepeatedStringMatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java" afterPath="$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/SentenceSimilarity.java" afterPath="$PROJECT_DIR$/src/leetcode/SentenceSimilarity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/SplitLinkedListinParts.java" afterPath="$PROJECT_DIR$/src/leetcode/SplitLinkedListinParts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/TwoSumIVInputisaBST.java" afterPath="$PROJECT_DIR$/src/leetcode/TwoSumIVInputisaBST.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/ValidPalindromeII.java" afterPath="$PROJECT_DIR$/src/leetcode/ValidPalindromeII.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/Chapter1.java" afterPath="$PROJECT_DIR$/src/suanfa/Chapter1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/Chapter2.java" afterPath="$PROJECT_DIR$/src/suanfa/Chapter2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/Chapter3.java" afterPath="$PROJECT_DIR$/src/suanfa/Chapter3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/SeparateChainingHashST.java" afterPath="$PROJECT_DIR$/src/suanfa/SeparateChainingHashST.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/SequentialSearchST.java" afterPath="$PROJECT_DIR$/src/suanfa/SequentialSearchST.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/StopWatch.java" afterPath="$PROJECT_DIR$/src/suanfa/StopWatch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/suanfa/TrieST.java" afterPath="$PROJECT_DIR$/src/suanfa/TrieST.java" />
     </list>
     <ignored path="Rarshion.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,6 +46,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Rarshion$DeleteOperationforTwoStrings.coverage" NAME="DeleteOperationforTwoStrings Coverage Results" MODIFIED="1505912752627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Rarshion$ValidateIPAddress.coverage" NAME="ValidateIPAddress Coverage Results" MODIFIED="1493518153916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leetcode.*</FILTER>
     </SUITE>
@@ -39,49 +56,35 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Rarshion" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cleaner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/Cleaner.java">
+      <file leaf-file-name="ValidPalindromeII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ValidPalindromeII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentenceSimilarity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SentenceSimilarity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnhandleException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/UnhandleException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RepeatedDNASequences.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RepeatedDNASequences.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,72 +92,533 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestIncreasingPathinaMatrix.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/LongestIncreasingPathinaMatrix.java">
+      <file leaf-file-name="QueueReconstructionbyHeight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/QueueReconstructionbyHeight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseList.java">
+      <file leaf-file-name="PalindromicSubstrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromicSubstrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="193">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapSumPairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/MapSumPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SplitLinkedListinParts.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SplitLinkedListinParts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RepeatedSubstringPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RepeatedSubstringPattern.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveElement.java">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="74190">
+              <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#216107#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5644#5645#0" expanded="false" />
+                <element signature="e#5675#5676#0" expanded="false" />
+                <element signature="e#7284#7285#0" expanded="false" />
+                <element signature="e#7312#7313#0" expanded="false" />
+                <element signature="e#44246#44247#0" expanded="false" />
+                <element signature="e#44327#44328#0" expanded="false" />
+                <element signature="e#44608#44609#0" expanded="false" />
+                <element signature="e#44673#44674#0" expanded="false" />
+                <element signature="e#44715#44716#0" expanded="false" />
+                <element signature="e#44780#44781#0" expanded="false" />
+                <element signature="e#44838#44839#0" expanded="false" />
+                <element signature="e#44888#44889#0" expanded="false" />
+                <element signature="e#44950#44951#0" expanded="false" />
+                <element signature="e#45015#45016#0" expanded="false" />
+                <element signature="e#45070#45071#0" expanded="false" />
+                <element signature="e#45135#45136#0" expanded="false" />
+                <element signature="e#45190#45191#0" expanded="false" />
+                <element signature="e#45255#45256#0" expanded="false" />
+                <element signature="e#45285#45286#0" expanded="false" />
+                <element signature="e#45350#45351#0" expanded="false" />
+                <element signature="e#45477#45478#0" expanded="false" />
+                <element signature="e#45518#45519#0" expanded="false" />
+                <element signature="e#45599#45600#0" expanded="false" />
+                <element signature="e#45664#45665#0" expanded="false" />
+                <element signature="e#45767#45768#0" expanded="false" />
+                <element signature="e#45829#45830#0" expanded="false" />
+                <element signature="e#45922#45923#0" expanded="false" />
+                <element signature="e#45974#45975#0" expanded="false" />
+                <element signature="e#46075#46076#0" expanded="false" />
+                <element signature="e#46135#46136#0" expanded="false" />
+                <element signature="e#46897#46898#0" expanded="false" />
+                <element signature="e#46944#46945#0" expanded="false" />
+                <element signature="e#48325#48326#0" expanded="false" />
+                <element signature="e#48378#48379#0" expanded="false" />
+                <element signature="e#49053#49054#0" expanded="false" />
+                <element signature="e#49134#49135#0" expanded="false" />
+                <element signature="e#49187#49188#0" expanded="false" />
+                <element signature="e#49270#49271#0" expanded="false" />
+                <element signature="e#51301#51302#0" expanded="false" />
+                <element signature="e#51356#51357#0" expanded="false" />
+                <element signature="e#54847#54848#0" expanded="false" />
+                <element signature="e#54912#54913#0" expanded="false" />
+                <element signature="e#54960#54961#0" expanded="false" />
+                <element signature="e#55025#55026#0" expanded="false" />
+                <element signature="e#55062#55063#0" expanded="false" />
+                <element signature="e#55127#55128#0" expanded="false" />
+                <element signature="e#55349#55350#0" expanded="false" />
+                <element signature="e#55414#55415#0" expanded="false" />
+                <element signature="e#55493#55494#0" expanded="false" />
+                <element signature="e#55558#55559#0" expanded="false" />
+                <element signature="e#55628#55629#0" expanded="false" />
+                <element signature="e#55693#55694#0" expanded="false" />
+                <element signature="e#56434#56435#0" expanded="false" />
+                <element signature="e#56515#56516#0" expanded="false" />
+                <element signature="e#56554#56555#0" expanded="false" />
+                <element signature="e#56635#56636#0" expanded="false" />
+                <element signature="e#56674#56675#0" expanded="false" />
+                <element signature="e#56755#56756#0" expanded="false" />
+                <element signature="e#56857#56858#0" expanded="false" />
+                <element signature="e#56923#56924#0" expanded="false" />
+                <element signature="e#58225#58226#0" expanded="false" />
+                <element signature="e#58260#58261#0" expanded="false" />
+                <element signature="e#58824#58825#0" expanded="false" />
+                <element signature="e#58883#58884#0" expanded="false" />
+                <element signature="e#59713#59714#0" expanded="false" />
+                <element signature="e#59760#59761#0" expanded="false" />
+                <element signature="e#60591#60592#0" expanded="false" />
+                <element signature="e#60656#60657#0" expanded="false" />
+                <element signature="e#60694#60695#0" expanded="false" />
+                <element signature="e#60759#60760#0" expanded="false" />
+                <element signature="e#60821#60822#0" expanded="false" />
+                <element signature="e#60886#60887#0" expanded="false" />
+                <element signature="e#60916#60917#0" expanded="false" />
+                <element signature="e#60981#60982#0" expanded="false" />
+                <element signature="e#62220#62221#0" expanded="false" />
+                <element signature="e#62261#62262#0" expanded="false" />
+                <element signature="e#62500#62501#0" expanded="false" />
+                <element signature="e#62565#62566#0" expanded="false" />
+                <element signature="e#62642#62643#0" expanded="false" />
+                <element signature="e#62707#62708#0" expanded="false" />
+                <element signature="e#62790#62791#0" expanded="false" />
+                <element signature="e#62855#62856#0" expanded="false" />
+                <element signature="e#62917#62918#0" expanded="false" />
+                <element signature="e#62982#62983#0" expanded="false" />
+                <element signature="e#65205#65206#0" expanded="false" />
+                <element signature="e#65255#65256#0" expanded="false" />
+                <element signature="e#66138#66139#0" expanded="false" />
+                <element signature="e#66201#66202#0" expanded="false" />
+                <element signature="e#66280#66281#0" expanded="false" />
+                <element signature="e#66350#66351#0" expanded="false" />
+                <element signature="e#66424#66425#0" expanded="false" />
+                <element signature="e#66490#66491#0" expanded="false" />
+                <element signature="e#66590#66591#0" expanded="false" />
+                <element signature="e#66674#66675#0" expanded="false" />
+                <element signature="e#66774#66775#0" expanded="false" />
+                <element signature="e#66838#66839#0" expanded="false" />
+                <element signature="e#67176#67177#0" expanded="false" />
+                <element signature="e#67257#67258#0" expanded="false" />
+                <element signature="e#67337#67338#0" expanded="false" />
+                <element signature="e#67417#67418#0" expanded="false" />
+                <element signature="e#67687#67688#0" expanded="false" />
+                <element signature="e#67753#67754#0" expanded="false" />
+                <element signature="e#67804#67805#0" expanded="false" />
+                <element signature="e#67892#67893#0" expanded="false" />
+                <element signature="e#67935#67936#0" expanded="false" />
+                <element signature="e#68024#68025#0" expanded="false" />
+                <element signature="e#71443#71444#0" expanded="false" />
+                <element signature="e#71524#71525#0" expanded="false" />
+                <element signature="e#81688#81689#0" expanded="false" />
+                <element signature="e#81742#81743#0" expanded="false" />
+                <element signature="e#82552#82553#0" expanded="false" />
+                <element signature="e#82614#82615#0" expanded="false" />
+                <element signature="e#82649#82650#0" expanded="false" />
+                <element signature="e#82714#82715#0" expanded="false" />
+                <element signature="e#82758#82759#0" expanded="false" />
+                <element signature="e#82825#82826#0" expanded="false" />
+                <element signature="e#82861#82862#0" expanded="false" />
+                <element signature="e#82926#82927#0" expanded="false" />
+                <element signature="e#82966#82967#0" expanded="false" />
+                <element signature="e#83032#83033#0" expanded="false" />
+                <element signature="e#83073#83074#0" expanded="false" />
+                <element signature="e#83153#83154#0" expanded="false" />
+                <element signature="e#83188#83189#0" expanded="false" />
+                <element signature="e#83250#83251#0" expanded="false" />
+                <element signature="e#83292#83293#0" expanded="false" />
+                <element signature="e#83357#83358#0" expanded="false" />
+                <element signature="e#83415#83416#0" expanded="false" />
+                <element signature="e#83488#83489#0" expanded="false" />
+                <element signature="e#83550#83551#0" expanded="false" />
+                <element signature="e#83618#83619#0" expanded="false" />
+                <element signature="e#83673#83674#0" expanded="false" />
+                <element signature="e#83744#83745#0" expanded="false" />
+                <element signature="e#83799#83800#0" expanded="false" />
+                <element signature="e#83870#83871#0" expanded="false" />
+                <element signature="e#83900#83901#0" expanded="false" />
+                <element signature="e#83956#83957#0" expanded="false" />
+                <element signature="e#83991#83992#0" expanded="false" />
+                <element signature="e#84057#84058#0" expanded="false" />
+                <element signature="e#84185#84186#0" expanded="false" />
+                <element signature="e#84251#84252#0" expanded="false" />
+                <element signature="e#84332#84333#0" expanded="false" />
+                <element signature="e#84404#84405#0" expanded="false" />
+                <element signature="e#84468#84469#0" expanded="false" />
+                <element signature="e#84551#84552#0" expanded="false" />
+                <element signature="e#84605#84606#0" expanded="false" />
+                <element signature="e#84683#84684#0" expanded="false" />
+                <element signature="e#84745#84746#0" expanded="false" />
+                <element signature="e#84831#84832#0" expanded="false" />
+                <element signature="e#86062#86063#0" expanded="false" />
+                <element signature="e#86109#86110#0" expanded="false" />
+                <element signature="e#86174#86175#0" expanded="false" />
+                <element signature="e#86228#86229#0" expanded="false" />
+                <element signature="e#86489#86490#0" expanded="false" />
+                <element signature="e#86521#86522#0" expanded="false" />
+                <element signature="e#86571#86572#0" expanded="false" />
+                <element signature="e#86610#86611#0" expanded="false" />
+                <element signature="e#86806#86807#0" expanded="false" />
+                <element signature="e#86872#86873#0" expanded="false" />
+                <element signature="e#88520#88521#0" expanded="false" />
+                <element signature="e#88573#88574#0" expanded="false" />
+                <element signature="e#89118#89119#0" expanded="false" />
+                <element signature="e#89187#89188#0" expanded="false" />
+                <element signature="e#89841#89842#0" expanded="false" />
+                <element signature="e#89905#89906#0" expanded="false" />
+                <element signature="e#89931#89932#0" expanded="false" />
+                <element signature="e#89994#89995#0" expanded="false" />
+                <element signature="e#96714#96715#0" expanded="false" />
+                <element signature="e#96783#96784#0" expanded="false" />
+                <element signature="e#96818#96819#0" expanded="false" />
+                <element signature="e#96887#96888#0" expanded="false" />
+                <element signature="e#96932#96933#0" expanded="false" />
+                <element signature="e#97010#97011#0" expanded="false" />
+                <element signature="e#97058#97059#0" expanded="false" />
+                <element signature="e#97129#97130#0" expanded="false" />
+                <element signature="e#97166#97167#0" expanded="false" />
+                <element signature="e#97238#97239#0" expanded="false" />
+                <element signature="e#97278#97279#0" expanded="false" />
+                <element signature="e#97347#97348#0" expanded="false" />
+                <element signature="e#97390#97391#0" expanded="false" />
+                <element signature="e#97463#97464#0" expanded="false" />
+                <element signature="e#97658#97659#0" expanded="false" />
+                <element signature="e#97744#97745#0" expanded="false" />
+                <element signature="e#98225#98226#0" expanded="false" />
+                <element signature="e#98297#98298#0" expanded="false" />
+                <element signature="e#98367#98368#0" expanded="false" />
+                <element signature="e#98426#98427#0" expanded="false" />
+                <element signature="e#99511#99512#0" expanded="false" />
+                <element signature="e#99546#99547#0" expanded="false" />
+                <element signature="e#99614#99615#0" expanded="false" />
+                <element signature="e#99656#99657#0" expanded="false" />
+                <element signature="e#100283#100284#0" expanded="false" />
+                <element signature="e#100342#100343#0" expanded="false" />
+                <element signature="e#101602#101603#0" expanded="false" />
+                <element signature="e#101649#101650#0" expanded="false" />
+                <element signature="e#102253#102254#0" expanded="false" />
+                <element signature="e#102315#102316#0" expanded="false" />
+                <element signature="e#102350#102351#0" expanded="false" />
+                <element signature="e#102415#102416#0" expanded="false" />
+                <element signature="e#102464#102465#0" expanded="false" />
+                <element signature="e#102536#102537#0" expanded="false" />
+                <element signature="e#102589#102590#0" expanded="false" />
+                <element signature="e#102665#102666#0" expanded="false" />
+                <element signature="e#102700#102701#0" expanded="false" />
+                <element signature="e#102764#102765#0" expanded="false" />
+                <element signature="e#102804#102805#0" expanded="false" />
+                <element signature="e#102875#102876#0" expanded="false" />
+                <element signature="e#102913#102914#0" expanded="false" />
+                <element signature="e#102980#102981#0" expanded="false" />
+                <element signature="e#103044#103045#0" expanded="false" />
+                <element signature="e#103104#103105#0" expanded="false" />
+                <element signature="e#103134#103135#0" expanded="false" />
+                <element signature="e#103190#103191#0" expanded="false" />
+                <element signature="e#104256#104257#0" expanded="false" />
+                <element signature="e#104322#104323#0" expanded="false" />
+                <element signature="e#104357#104358#0" expanded="false" />
+                <element signature="e#104423#104424#0" expanded="false" />
+                <element signature="e#104717#104718#0" expanded="false" />
+                <element signature="e#104781#104782#0" expanded="false" />
+                <element signature="e#105022#105023#0" expanded="false" />
+                <element signature="e#105101#105102#0" expanded="false" />
+                <element signature="e#105177#105178#0" expanded="false" />
+                <element signature="e#105251#105252#0" expanded="false" />
+                <element signature="e#105482#105483#0" expanded="false" />
+                <element signature="e#105557#105558#0" expanded="false" />
+                <element signature="e#109174#109175#0" expanded="false" />
+                <element signature="e#109243#109244#0" expanded="false" />
+                <element signature="e#109874#109875#0" expanded="false" />
+                <element signature="e#109941#109942#0" expanded="false" />
+                <element signature="e#109970#109971#0" expanded="false" />
+                <element signature="e#110036#110037#0" expanded="false" />
+                <element signature="e#114419#114420#0" expanded="false" />
+                <element signature="e#114467#114468#0" expanded="false" />
+                <element signature="e#119978#119979#0" expanded="false" />
+                <element signature="e#120033#120034#0" expanded="false" />
+                <element signature="e#121469#121470#0" expanded="false" />
+                <element signature="e#121519#121520#0" expanded="false" />
+                <element signature="e#121574#121575#0" expanded="false" />
+                <element signature="e#121622#121623#0" expanded="false" />
+                <element signature="e#121677#121678#0" expanded="false" />
+                <element signature="e#121725#121726#0" expanded="false" />
+                <element signature="e#124180#124181#0" expanded="false" />
+                <element signature="e#124229#124230#0" expanded="false" />
+                <element signature="e#125893#125894#0" expanded="false" />
+                <element signature="e#125947#125948#0" expanded="false" />
+                <element signature="e#128176#128177#0" expanded="false" />
+                <element signature="e#128224#128225#0" expanded="false" />
+                <element signature="e#131041#131042#0" expanded="false" />
+                <element signature="e#131117#131118#0" expanded="false" />
+                <element signature="e#131170#131171#0" expanded="false" />
+                <element signature="e#131248#131249#0" expanded="false" />
+                <element signature="e#134205#134206#0" expanded="false" />
+                <element signature="e#134291#134292#0" expanded="false" />
+                <element signature="e#137382#137383#0" expanded="false" />
+                <element signature="e#137448#137449#0" expanded="false" />
+                <element signature="e#137497#137498#0" expanded="false" />
+                <element signature="e#137556#137557#0" expanded="false" />
+                <element signature="e#137627#137628#0" expanded="false" />
+                <element signature="e#137694#137695#0" expanded="false" />
+                <element signature="e#138474#138475#0" expanded="false" />
+                <element signature="e#138533#138534#0" expanded="false" />
+                <element signature="e#138573#138574#0" expanded="false" />
+                <element signature="e#138632#138633#0" expanded="false" />
+                <element signature="e#138734#138735#0" expanded="false" />
+                <element signature="e#138800#138801#0" expanded="false" />
+                <element signature="e#139589#139590#0" expanded="false" />
+                <element signature="e#139625#139626#0" expanded="false" />
+                <element signature="e#139951#139952#0" expanded="false" />
+                <element signature="e#139992#139993#0" expanded="false" />
+                <element signature="e#146154#146155#0" expanded="false" />
+                <element signature="e#146195#146196#0" expanded="false" />
+                <element signature="e#146594#146595#0" expanded="false" />
+                <element signature="e#146645#146646#0" expanded="false" />
+                <element signature="e#149201#149202#0" expanded="false" />
+                <element signature="e#149274#149275#0" expanded="false" />
+                <element signature="e#149849#149850#0" expanded="false" />
+                <element signature="e#149937#149938#0" expanded="false" />
+                <element signature="e#152952#152953#0" expanded="false" />
+                <element signature="e#153012#153013#0" expanded="false" />
+                <element signature="e#153068#153069#0" expanded="false" />
+                <element signature="e#153127#153128#0" expanded="false" />
+                <element signature="e#159181#159182#0" expanded="false" />
+                <element signature="e#159267#159268#0" expanded="false" />
+                <element signature="e#159318#159319#0" expanded="false" />
+                <element signature="e#159406#159407#0" expanded="false" />
+                <element signature="e#164752#164753#0" expanded="false" />
+                <element signature="e#164800#164801#0" expanded="false" />
+                <element signature="e#164852#164853#0" expanded="false" />
+                <element signature="e#164933#164934#0" expanded="false" />
+                <element signature="e#164986#164987#0" expanded="false" />
+                <element signature="e#165068#165069#0" expanded="false" />
+                <element signature="e#167000#167001#0" expanded="false" />
+                <element signature="e#167065#167066#0" expanded="false" />
+                <element signature="e#167497#167498#0" expanded="false" />
+                <element signature="e#167551#167552#0" expanded="false" />
+                <element signature="e#168750#168751#0" expanded="false" />
+                <element signature="e#168823#168824#0" expanded="false" />
+                <element signature="e#170115#170116#0" expanded="false" />
+                <element signature="e#170189#170190#0" expanded="false" />
+                <element signature="e#171523#171524#0" expanded="false" />
+                <element signature="e#171564#171565#0" expanded="false" />
+                <element signature="e#172396#172397#0" expanded="false" />
+                <element signature="e#172450#172451#0" expanded="false" />
+                <element signature="e#172797#172798#0" expanded="false" />
+                <element signature="e#172837#172838#0" expanded="false" />
+                <element signature="e#175306#175307#0" expanded="false" />
+                <element signature="e#175349#175350#0" expanded="false" />
+                <element signature="e#175623#175624#0" expanded="false" />
+                <element signature="e#175669#175670#0" expanded="false" />
+                <element signature="e#175717#175718#0" expanded="false" />
+                <element signature="e#175767#175768#0" expanded="false" />
+                <element signature="e#176219#176220#0" expanded="false" />
+                <element signature="e#176295#176296#0" expanded="false" />
+                <element signature="e#176338#176339#0" expanded="false" />
+                <element signature="e#176414#176415#0" expanded="false" />
+                <element signature="e#176699#176700#0" expanded="false" />
+                <element signature="e#176755#176756#0" expanded="false" />
+                <element signature="e#176962#176963#0" expanded="false" />
+                <element signature="e#177016#177017#0" expanded="false" />
+                <element signature="e#177203#177204#0" expanded="false" />
+                <element signature="e#177244#177245#0" expanded="false" />
+                <element signature="e#178258#178259#0" expanded="false" />
+                <element signature="e#178301#178302#0" expanded="false" />
+                <element signature="e#180623#180624#0" expanded="false" />
+                <element signature="e#180699#180700#0" expanded="false" />
+                <element signature="e#180922#180923#0" expanded="false" />
+                <element signature="e#180965#180966#0" expanded="false" />
+                <element signature="e#181055#181056#0" expanded="false" />
+                <element signature="e#181109#181110#0" expanded="false" />
+                <element signature="e#181339#181340#0" expanded="false" />
+                <element signature="e#181404#181405#0" expanded="false" />
+                <element signature="e#181481#181482#0" expanded="false" />
+                <element signature="e#181546#181547#0" expanded="false" />
+                <element signature="e#181629#181630#0" expanded="false" />
+                <element signature="e#181694#181695#0" expanded="false" />
+                <element signature="e#181756#181757#0" expanded="false" />
+                <element signature="e#181821#181822#0" expanded="false" />
+                <element signature="e#182706#182707#0" expanded="false" />
+                <element signature="e#182746#182747#0" expanded="false" />
+                <element signature="e#183154#183155#0" expanded="false" />
+                <element signature="e#183198#183199#0" expanded="false" />
+                <element signature="e#183375#183376#0" expanded="false" />
+                <element signature="e#183421#183422#0" expanded="false" />
+                <element signature="e#183668#183669#0" expanded="false" />
+                <element signature="e#183741#183742#0" expanded="false" />
+                <element signature="e#184416#184417#0" expanded="false" />
+                <element signature="e#184459#184460#0" expanded="false" />
+                <element signature="e#184897#184898#0" expanded="false" />
+                <element signature="e#184949#184950#0" expanded="false" />
+                <element signature="e#185013#185014#0" expanded="false" />
+                <element signature="e#185055#185056#0" expanded="false" />
+                <element signature="e#185733#185734#0" expanded="false" />
+                <element signature="e#185790#185791#0" expanded="false" />
+                <element signature="e#186025#186026#0" expanded="false" />
+                <element signature="e#186071#186072#0" expanded="false" />
+                <element signature="e#186135#186136#0" expanded="false" />
+                <element signature="e#186195#186196#0" expanded="false" />
+                <element signature="e#186276#186277#0" expanded="false" />
+                <element signature="e#186341#186342#0" expanded="false" />
+                <element signature="e#186747#186748#0" expanded="false" />
+                <element signature="e#186792#186793#0" expanded="false" />
+                <element signature="e#187167#187168#0" expanded="false" />
+                <element signature="e#187224#187225#0" expanded="false" />
+                <element signature="e#187662#187663#0" expanded="false" />
+                <element signature="e#187708#187709#0" expanded="false" />
+                <element signature="e#187789#187790#0" expanded="false" />
+                <element signature="e#187854#187855#0" expanded="false" />
+                <element signature="e#187932#187933#0" expanded="false" />
+                <element signature="e#187997#187998#0" expanded="false" />
+                <element signature="e#188141#188142#0" expanded="false" />
+                <element signature="e#188201#188202#0" expanded="false" />
+                <element signature="e#188769#188770#0" expanded="false" />
+                <element signature="e#188822#188823#0" expanded="false" />
+                <element signature="e#190010#190026#0" expanded="false" />
+                <element signature="e#190398#190399#0" expanded="false" />
+                <element signature="e#190458#190459#0" expanded="false" />
+                <element signature="e#190548#190549#0" expanded="false" />
+                <element signature="e#190591#190592#0" expanded="false" />
+                <element signature="e#190830#190831#0" expanded="false" />
+                <element signature="e#190895#190896#0" expanded="false" />
+                <element signature="e#190972#190973#0" expanded="false" />
+                <element signature="e#191037#191038#0" expanded="false" />
+                <element signature="e#191120#191121#0" expanded="false" />
+                <element signature="e#191185#191186#0" expanded="false" />
+                <element signature="e#191247#191248#0" expanded="false" />
+                <element signature="e#191312#191313#0" expanded="false" />
+                <element signature="e#193612#193613#0" expanded="false" />
+                <element signature="e#193644#193645#0" expanded="false" />
+                <element signature="e#193691#193692#0" expanded="false" />
+                <element signature="e#193748#193749#0" expanded="false" />
+                <element signature="e#193788#193789#0" expanded="false" />
+                <element signature="e#193839#193840#0" expanded="false" />
+                <element signature="e#193883#193884#0" expanded="false" />
+                <element signature="e#193938#193939#0" expanded="false" />
+                <element signature="e#195578#195579#0" expanded="false" />
+                <element signature="e#195653#195654#0" expanded="false" />
+                <element signature="e#195716#195717#0" expanded="false" />
+                <element signature="e#195802#195803#0" expanded="false" />
+                <element signature="e#195867#195868#0" expanded="false" />
+                <element signature="e#195920#195921#0" expanded="false" />
+                <element signature="e#197058#197059#0" expanded="false" />
+                <element signature="e#197128#197129#0" expanded="false" />
+                <element signature="e#197522#197523#0" expanded="false" />
+                <element signature="e#197569#197570#0" expanded="false" />
+                <element signature="e#197724#197725#0" expanded="false" />
+                <element signature="e#197780#197781#0" expanded="false" />
+                <element signature="e#199575#199576#0" expanded="false" />
+                <element signature="e#199625#199626#0" expanded="false" />
+                <element signature="e#199856#199857#0" expanded="false" />
+                <element signature="e#199921#199922#0" expanded="false" />
+                <element signature="e#199982#199983#0" expanded="false" />
+                <element signature="e#200016#200017#0" expanded="false" />
+                <element signature="e#200646#200647#0" expanded="false" />
+                <element signature="e#200696#200697#0" expanded="false" />
+                <element signature="e#200734#200735#0" expanded="false" />
+                <element signature="e#200781#200782#0" expanded="false" />
+                <element signature="e#201866#201867#0" expanded="false" />
+                <element signature="e#201924#201925#0" expanded="false" />
+                <element signature="e#210534#210535#0" expanded="false" />
+                <element signature="e#210578#210579#0" expanded="false" />
+                <element signature="e#212293#212294#0" expanded="false" />
+                <element signature="e#212334#212335#0" expanded="false" />
+                <element signature="e#212415#212416#0" expanded="false" />
+                <element signature="e#212464#212465#0" expanded="false" />
+                <element signature="e#213891#213892#0" expanded="false" />
+                <element signature="e#213938#213939#0" expanded="false" />
+                <element signature="e#215786#215787#0" expanded="false" />
+                <element signature="e#215835#215836#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RelativeRanks.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RelativeRanks.java">
+      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="3735">
+              <caret line="272" column="12" selection-start-line="272" selection-start-column="12" selection-end-line="272" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#17839#0" expanded="false" />
+                <element signature="e#17760#17761#0" expanded="false" />
+                <element signature="e#17835#17836#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomPickIndex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RandomPickIndex.java">
+      <file leaf-file-name="AbstractCollection.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RangeSumQuery2D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQuery2D.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="4320">
+              <caret line="315" column="19" selection-start-line="315" selection-start-column="19" selection-end-line="315" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15893#0" expanded="false" />
+                <element signature="e#2293#2294#0" expanded="false" />
+                <element signature="e#2327#2328#0" expanded="false" />
+                <element signature="e#8767#8768#0" expanded="false" />
+                <element signature="e#8824#8825#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,57 +646,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/ReverseWordsinaStringIII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/FindModeinBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MinimumTimeDifference.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/OnesandZeroes.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/Functional.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReverseStringII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/KeyboardRow.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ConstructtheRectangle.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ConvertaNumbertoHexadecimal.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/IntersectionofTwoArraysII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MinimumAbsoluteDifferenceinBST.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/BinaryTreeTilt.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReversePairs.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/CountingGenerator.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/ListMaker.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/CompType.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LongestPalindromicSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/NumberofSegmentsinaString.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LicenseKeyFormatting.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ValidateIPAddress.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/FindRightInterval.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SubarraySumEqualsK.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReshapetheMatrix.java" />
-        <option value="$PROJECT_DIR$/src/ThinkingInJava/enumerated/VendingMachine.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ImplementstrStr.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/NthDigit.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RelativeRanks.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/DistributeCandies.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SubtreeofAnotherTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LongestHarmoniousSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/AddOneRowtoTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/OrnamentalGarden.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MaximumAverageSubarrayI.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/TrimaBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SingleElementinaSortedArray.java" />
         <option value="$PROJECT_DIR$/src/leetcode/OptimalDivision.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/BasicCalculatorII.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MinimumIndexSumofTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Matrix01.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/CompareVersionNumbers.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/FractiontoRecurringDecimal.java" />
-        <option value="$PROJECT_DIR$/src/java8InAction/MeaningOfThis.java" />
-        <option value="$PROJECT_DIR$/src/java8InAction/Trader.java" />
-        <option value="$PROJECT_DIR$/src/java8InAction/Transaction.java" />
-        <option value="$PROJECT_DIR$/src/java8InAction/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/CleanupException.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/MyInputStream.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/MyConnectionException.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/MyOutputStream.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/Cleaner.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/JavaTryWIthResource.java" />
-        <option value="$PROJECT_DIR$/src/ExceptionRestruct/UnhandleException.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RepeatedDNASequences.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LongestIncreasingPathinaMatrix.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/CombinationSum4.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LongestPalindromicSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/Chopstick.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/Philosopher.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/DinningPhilophers.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/DinningPhilopsohers.java" />
+        <option value="$PROJECT_DIR$/src/ThinkingInJava/DinningPhilosophers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/BrickWall.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/TargetSum.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/DeleteOperationforTwoStrings.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ReconstructOriginalDigitsfromEnglish.java" />
+        <option value="$PROJECT_DIR$/src/mianshi/Chapter1.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/Chapter1.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/StopWatch.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/Chapter2.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/SequentialSearchST.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/Chapter3.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/SeparateChainingHashST.java" />
+        <option value="$PROJECT_DIR$/src/java9InAction/New.java" />
+        <option value="$PROJECT_DIR$/src/suanfa/TrieST.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/AverageofLevelsinBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MaxAreaofIsland.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/jvm/HotSwapClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SecondMinimumNodeInaBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LongestContinuousIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RangeAdditionII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/TwoSumIVInputisaBST.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ConstructStringfromBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Employee.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/BplusTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/BplusNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/CountBinarySubstrings.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/PrintBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/RepeatedStringMatch.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LongestUnivaluePath.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ValidPalindromeII.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SentenceSimilarity.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/QueueReconstructionbyHeight.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/PalindromicSubstrings.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MapSumPairs.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SplitLinkedListinParts.java" />
       </list>
     </option>
   </component>
@@ -242,13 +706,24 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="33" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -262,21 +737,19 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -284,10 +757,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Rarshion" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -334,30 +803,39 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Play_pro/gerrit" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.18/lombok-1.16.18.jar!/" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rarshion/AndroidStudioProjects/Intelij_pro/Rarshion/src/ThinkingInJava/enumerated/VendingMachine.java&#10;`&#9;null&#9;null" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SearchEverywhereHistoryKey" value="stackLength&#9;null&#9;null&#10;`&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
-  <component name="RunManager" selected="Application.JavaTryWIthResource">
-    <configuration default="false" name="BasicCalculatorII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PalindromicSubstrings">
+    <configuration default="false" name="SelfDividingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.BasicCalculatorII" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.SelfDividingNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -370,14 +848,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PrintBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.CompareVersionNumbers" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.PrintBinaryTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -390,14 +868,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="FractiontoRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ValidPalindromeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.FractiontoRecurringDecimal" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.ValidPalindromeII" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -410,14 +888,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MeaningOfThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SentenceSimilarity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="java8InAction.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="java8InAction.MeaningOfThis" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.SentenceSimilarity" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -430,14 +908,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="JavaTryWIthResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PalindromicSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ExceptionRestruct.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ExceptionRestruct.JavaTryWIthResource" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.PalindromicSubstrings" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1123,19 +1601,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BasicCalculatorII" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FractiontoRecurringDecimal" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MeaningOfThis" />
-      <item index="4" class="java.lang.String" itemvalue="Application.JavaTryWIthResource" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SelfDividingNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrintBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ValidPalindromeII" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SentenceSimilarity" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PalindromicSubstrings" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.JavaTryWIthResource" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MeaningOfThis" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FractiontoRecurringDecimal" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CompareVersionNumbers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BasicCalculatorII" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PalindromicSubstrings" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SentenceSimilarity" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ValidPalindromeII" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrintBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SelfDividingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -1275,7 +1753,83 @@
       <workItem from="1497225257383" duration="3908000" />
       <workItem from="1497395473824" duration="5496000" />
       <workItem from="1497481249952" duration="1016000" />
-      <workItem from="1497490300346" duration="7241000" />
+      <workItem from="1497490300346" duration="8274000" />
+      <workItem from="1497916345501" duration="2695000" />
+      <workItem from="1498005909724" duration="739000" />
+      <workItem from="1498088208370" duration="5263000" />
+      <workItem from="1498175809903" duration="2910000" />
+      <workItem from="1498261619975" duration="2493000" />
+      <workItem from="1498396807854" duration="3701000" />
+      <workItem from="1498520550532" duration="4105000" />
+      <workItem from="1498606096675" duration="5596000" />
+      <workItem from="1498692372779" duration="5535000" />
+      <workItem from="1498873460729" duration="9290000" />
+      <workItem from="1499124060211" duration="5494000" />
+      <workItem from="1499507120200" duration="2582000" />
+      <workItem from="1500000655908" duration="4251000" />
+      <workItem from="1500070779350" duration="19000" />
+      <workItem from="1500070817311" duration="1802000" />
+      <workItem from="1500081513635" duration="9992000" />
+      <workItem from="1501111461625" duration="1044000" />
+      <workItem from="1501137770516" duration="2523000" />
+      <workItem from="1501492423679" duration="2474000" />
+      <workItem from="1501897053674" duration="522000" />
+      <workItem from="1501897744900" duration="7596000" />
+      <workItem from="1502105302788" duration="895000" />
+      <workItem from="1502250653449" duration="2242000" />
+      <workItem from="1502527343269" duration="2671000" />
+      <workItem from="1502751439773" duration="5516000" />
+      <workItem from="1502843767430" duration="977000" />
+      <workItem from="1502930112334" duration="1676000" />
+      <workItem from="1503014438284" duration="2665000" />
+      <workItem from="1503107987286" duration="12894000" />
+      <workItem from="1503495152825" duration="288000" />
+      <workItem from="1503495493594" duration="1851000" />
+      <workItem from="1503572987956" duration="2155000" />
+      <workItem from="1503801272762" duration="2507000" />
+      <workItem from="1503883357230" duration="336000" />
+      <workItem from="1503927835260" duration="4185000" />
+      <workItem from="1504051931724" duration="2136000" />
+      <workItem from="1504224341176" duration="3052000" />
+      <workItem from="1504532095211" duration="2128000" />
+      <workItem from="1505014923346" duration="9044000" />
+      <workItem from="1505292919306" duration="1814000" />
+      <workItem from="1505348468635" duration="2071000" />
+      <workItem from="1505375408738" duration="3463000" />
+      <workItem from="1505435258753" duration="2088000" />
+      <workItem from="1505455921859" duration="1709000" />
+      <workItem from="1505520178011" duration="3564000" />
+      <workItem from="1505743959772" duration="3562000" />
+      <workItem from="1505783897838" duration="5949000" />
+      <workItem from="1505864289458" duration="583000" />
+      <workItem from="1505894944268" duration="2766000" />
+      <workItem from="1505912664228" duration="569000" />
+      <workItem from="1506295196884" duration="3048000" />
+      <workItem from="1506382853533" duration="2298000" />
+      <workItem from="1506467591771" duration="1937000" />
+      <workItem from="1506813284525" duration="8741000" />
+      <workItem from="1507187841436" duration="384000" />
+      <workItem from="1507188815588" duration="556000" />
+      <workItem from="1507461465476" duration="1364000" />
+      <workItem from="1507509008274" duration="121000" />
+      <workItem from="1508195410414" duration="1814000" />
+      <workItem from="1508501160370" duration="4000" />
+      <workItem from="1508505596407" duration="2236000" />
+      <workItem from="1508764482130" duration="1748000" />
+      <workItem from="1508804562018" duration="1014000" />
+      <workItem from="1509175574157" duration="4900000" />
+      <workItem from="1509323337087" duration="20000" />
+      <workItem from="1509843777121" duration="11049000" />
+      <workItem from="1510493898861" duration="2453000" />
+      <workItem from="1510564163166" duration="2370000" />
+      <workItem from="1510582889444" duration="996000" />
+      <workItem from="1510789702876" duration="1511000" />
+      <workItem from="1510971677809" duration="772000" />
+      <workItem from="1511184072803" duration="7295000" />
+      <workItem from="1511360941404" duration="3177000" />
+      <workItem from="1511790109383" duration="5442000" />
+      <workItem from="1512133931645" duration="7871000" />
+      <workItem from="1512203829347" duration="7226000" />
     </task>
     <task id="LOCAL-00001" summary="[Leetcode] 新做的一些题">
       <created>1492912814485</created>
@@ -1312,11 +1866,25 @@
       <option name="project" value="LOCAL" />
       <updated>1496392530747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[LeetCode][ExceptionRestruct] 异常重构与leetcode一些题">
+      <created>1497768573459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1497768573459</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[add][what] 新做的leetcode题">
+      <created>1505521634325</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1505521634325</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="550557000" />
+    <option name="totallyTimeSpent" value="797919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1328,30 +1896,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="33" width="1440" height="784" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771084" sideWeight="0.47997138" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192771" sideWeight="0.38054362" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31213874" sideWeight="0.38054362" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37831324" sideWeight="0.32474965" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37831324" sideWeight="0.67525035" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711622" sideWeight="0.47424892" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25180724" sideWeight="0.47138768" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31084338" sideWeight="0.32474965" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.48415494" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32080925" sideWeight="0.67525035" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650602" sideWeight="0.47424892" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36560693" sideWeight="0.47138768" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22460657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2492564" sideWeight="0.49115044" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32650602" sideWeight="0.6559371" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2803468" sideWeight="0.6559371" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1360,8 +1928,8 @@
       <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32859176" sideWeight="0.4914163" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.51584506" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22168675" sideWeight="0.4914163" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1378,7 +1946,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Leetcode] 新做的一些题" />
     <MESSAGE value="[Leetcode] 深入java虚拟机的一些例子" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Leetcode] 深入java虚拟机的一些例子" />
+    <MESSAGE value="[LeetCode][ExceptionRestruct] 异常重构与leetcode一些题" />
+    <MESSAGE value="[add][what] 新做的leetcode题" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add][what] 新做的leetcode题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1647,22 +2217,70 @@
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExceptionRestruct/JavaTryWIthResource.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ExceptionRestruct/Cleaner.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RestoreIpAddressesExample.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/ReplaceWords.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Permutation.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/MaximumAverageSubarrayI.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/CombinationSum4.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>1926</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/DeleteOperationforTwoStrings.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="106" />
+      <option name="time" value="141" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1671,417 +2289,304 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ImplementstrStr.java">
+    <entry file="file://$PROJECT_DIR$/src/java8InAction/ForkJoinSumCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="375">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/DistributeCandies.java">
+    <entry file="file://$PROJECT_DIR$/src/suanfa/Chapter1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="1515">
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NthDigit.java">
+    <entry file="file://$PROJECT_DIR$/src/suanfa/Chapter3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="930">
+          <caret line="70" column="9" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/IncreasingTripletSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6750">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestUncommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestPalindromicSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestHarmoniousSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83505">
-          <caret line="5633" column="26" selection-start-line="5633" selection-start-column="26" selection-end-line="5633" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/OptimalDivision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/BasicCalculatorII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2775">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/MinimumIndexSumofTwoLists.java">
+    <entry file="file://$PROJECT_DIR$/src/suanfa/SeparateChainingHashST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Matrix01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="49" column="22" selection-start-line="14" selection-start-column="7" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35145">
-          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/CompareVersionNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/Short.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/FractiontoRecurringDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/SubtreeofAnotherTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NumberofSegmentsinaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/NumberofBoomerangs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#557#558#0" expanded="false" />
-            <element signature="e#594#595#0" expanded="false" />
-            <element signature="e#621#622#0" expanded="false" />
-            <element signature="e#654#655#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/stream/StreamSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73725">
-          <caret line="5003" column="19" selection-start-line="5003" selection-start-column="19" selection-end-line="5003" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19665">
-          <caret line="1397" column="23" selection-start-line="1397" selection-start-column="23" selection-end-line="1397" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10320">
-          <caret line="711" column="6" selection-start-line="711" selection-start-column="5" selection-end-line="711" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#33182#0" expanded="false" />
-            <element signature="e#33104#33105#0" expanded="false" />
-            <element signature="e#33178#33179#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16065">
-          <caret line="1130" column="54" selection-start-line="1130" selection-start-column="54" selection-end-line="1130" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#54151#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#6252#6253#0" expanded="false" />
-            <element signature="e#6320#6321#0" expanded="false" />
-            <element signature="e#10189#10190#0" expanded="false" />
-            <element signature="e#10216#10217#0" expanded="false" />
-            <element signature="e#10398#10399#0" expanded="false" />
-            <element signature="e#10430#10431#0" expanded="false" />
-            <element signature="e#10907#10908#0" expanded="false" />
-            <element signature="e#10945#10946#0" expanded="false" />
-            <element signature="e#13541#13542#0" expanded="false" />
-            <element signature="e#13596#13597#0" expanded="false" />
-            <element signature="e#15414#15415#0" expanded="false" />
-            <element signature="e#15459#15460#0" expanded="false" />
-            <element signature="e#24549#24550#0" expanded="false" />
-            <element signature="e#24603#24604#0" expanded="false" />
-            <element signature="e#30347#30348#0" expanded="false" />
-            <element signature="e#30384#30385#0" expanded="false" />
-            <element signature="e#30684#30685#0" expanded="false" />
-            <element signature="e#30716#30717#0" expanded="false" />
-            <element signature="e#31041#31042#0" expanded="false" />
-            <element signature="e#31086#31087#0" expanded="false" />
-            <element signature="e#33262#33263#0" expanded="false" />
-            <element signature="e#33304#33305#0" expanded="false" />
-            <element signature="e#33338#33339#0" expanded="false" />
-            <element signature="e#33375#33376#0" expanded="false" />
-            <element signature="e#33413#33414#0" expanded="false" />
-            <element signature="e#33454#33455#0" expanded="false" />
-            <element signature="e#38943#38944#0" expanded="false" />
-            <element signature="e#38994#38995#0" expanded="false" />
-            <element signature="e#39436#39437#0" expanded="false" />
-            <element signature="e#39481#39482#0" expanded="false" />
-            <element signature="e#39886#39887#0" expanded="false" />
-            <element signature="e#39960#39961#0" expanded="false" />
-            <element signature="e#40600#40601#0" expanded="false" />
-            <element signature="e#40658#40659#0" expanded="false" />
-            <element signature="e#42227#42228#0" expanded="false" />
-            <element signature="e#42280#42281#0" expanded="false" />
-            <element signature="e#42326#42327#0" expanded="false" />
-            <element signature="e#42383#42384#0" expanded="false" />
-            <element signature="e#44775#44776#0" expanded="false" />
-            <element signature="e#44842#44843#0" expanded="false" />
-            <element signature="e#46390#46391#0" expanded="false" />
-            <element signature="e#46455#46456#0" expanded="false" />
-            <element signature="e#51499#51500#0" expanded="false" />
-            <element signature="e#51557#51558#0" expanded="false" />
-            <element signature="e#51597#51598#0" expanded="false" />
-            <element signature="e#51690#51691#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8InAction/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8InAction/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="e#402#403#0" expanded="false" />
-            <element signature="e#431#432#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-            <element signature="e#486#487#0" expanded="false" />
-            <element signature="e#515#516#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8InAction/Trader.java">
+    <entry file="file://$PROJECT_DIR$/src/suanfa/SequentialSearchST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#338#339#0" expanded="false" />
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#399#400#0" expanded="false" />
-            <element signature="e#430#431#0" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-          </folding>
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java8InAction/MeaningOfThis.java">
+    <entry file="file://$PROJECT_DIR$/src/java9InAction/New.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/JavaTryWIthResource.java">
+    <entry file="file://$PROJECT_DIR$/src/suanfa/TrieST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="471">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/MyInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/EffectiveJava/CollectionClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/MyOutputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/EffectiveJava/BigGram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8InAction/TransactionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mianshi/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/MyConnectionException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/CleanupException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/Cleaner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionRestruct/UnhandleException.java">
+    <entry file="file://$PROJECT_DIR$/src/jvm/AtomicIntegerCompareTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseList.java">
+    <entry file="file://$PROJECT_DIR$/src/jvm/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/IntegerCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/NameCheckProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/TestStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/TestStackDeep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/TestPrecondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/TestInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AverageofLevelsinBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MaxAreaofIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="56" column="8" selection-start-line="47" selection-start-column="0" selection-end-line="56" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jvm/HotSwapClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestContinuousIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RangeAdditionII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/TwoSumIVInputisaBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/EvaluateDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ConcatenatedWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SecondMinimumNodeInaBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SelfDividingNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#866#867#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ConstructStringfromBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#184#185#0" expanded="false" />
+            <element signature="e#209#210#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/BplusTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#568#569#0" expanded="false" />
+            <element signature="e#595#596#0" expanded="false" />
+            <element signature="e#622#623#0" expanded="false" />
+            <element signature="e#658#659#0" expanded="false" />
+            <element signature="e#698#699#0" expanded="false" />
+            <element signature="e#725#726#0" expanded="false" />
+            <element signature="e#754#755#0" expanded="false" />
+            <element signature="e#782#783#0" expanded="false" />
+            <element signature="e#822#823#0" expanded="false" />
+            <element signature="e#849#850#0" expanded="false" />
+            <element signature="e#879#880#0" expanded="false" />
+            <element signature="e#908#909#0" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#989#990#0" expanded="false" />
+            <element signature="e#1028#1029#0" expanded="false" />
+            <element signature="e#1062#1063#0" expanded="false" />
+            <element signature="e#1111#1112#0" expanded="false" />
+            <element signature="e#1143#1144#0" expanded="false" />
+            <element signature="e#1184#1185#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/BplusNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/CountBinarySubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PrintBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -2094,52 +2599,590 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RemoveElement.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/RepeatedStringMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RelativeRanks.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestUnivaluePath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RandomPickIndex.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="9810">
+          <caret line="705" column="16" selection-start-line="705" selection-start-column="16" selection-end-line="705" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#40012#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4246#4247#0" expanded="false" />
+            <element signature="e#4278#4279#0" expanded="false" />
+            <element signature="e#14985#14986#0" expanded="false" />
+            <element signature="e#15015#15016#0" expanded="false" />
+            <element signature="e#15343#15344#0" expanded="false" />
+            <element signature="e#15374#15375#0" expanded="false" />
+            <element signature="e#19907#19908#0" expanded="false" />
+            <element signature="e#19950#19951#0" expanded="false" />
+            <element signature="e#20319#20320#0" expanded="false" />
+            <element signature="e#20359#20360#0" expanded="false" />
+            <element signature="e#20831#20832#0" expanded="false" />
+            <element signature="e#20871#20872#0" expanded="false" />
+            <element signature="e#21348#21349#0" expanded="false" />
+            <element signature="e#21388#21389#0" expanded="false" />
+            <element signature="e#21879#21880#0" expanded="false" />
+            <element signature="e#21919#21920#0" expanded="false" />
+            <element signature="e#22432#22433#0" expanded="false" />
+            <element signature="e#22472#22473#0" expanded="false" />
+            <element signature="e#22924#22925#0" expanded="false" />
+            <element signature="e#22948#22949#0" expanded="false" />
+            <element signature="e#23994#23995#0" expanded="false" />
+            <element signature="e#24036#24037#0" expanded="false" />
+            <element signature="e#24380#24381#0" expanded="false" />
+            <element signature="e#24405#24406#0" expanded="false" />
+            <element signature="e#29974#29975#0" expanded="false" />
+            <element signature="e#30017#30018#0" expanded="false" />
+            <element signature="e#32148#32149#0" expanded="false" />
+            <element signature="e#32194#32195#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ValidPalindromeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RangeSumQuery2D.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="4320">
+          <caret line="315" column="19" selection-start-line="315" selection-start-column="19" selection-end-line="315" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15893#0" expanded="false" />
+            <element signature="e#2293#2294#0" expanded="false" />
+            <element signature="e#2327#2328#0" expanded="false" />
+            <element signature="e#8767#8768#0" expanded="false" />
+            <element signature="e#8824#8825#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RepeatedDNASequences.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="3735">
+          <caret line="272" column="12" selection-start-line="272" selection-start-column="12" selection-end-line="272" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#17839#0" expanded="false" />
+            <element signature="e#17760#17761#0" expanded="false" />
+            <element signature="e#17835#17836#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74190">
+          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#216107#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5644#5645#0" expanded="false" />
+            <element signature="e#5675#5676#0" expanded="false" />
+            <element signature="e#7284#7285#0" expanded="false" />
+            <element signature="e#7312#7313#0" expanded="false" />
+            <element signature="e#44246#44247#0" expanded="false" />
+            <element signature="e#44327#44328#0" expanded="false" />
+            <element signature="e#44608#44609#0" expanded="false" />
+            <element signature="e#44673#44674#0" expanded="false" />
+            <element signature="e#44715#44716#0" expanded="false" />
+            <element signature="e#44780#44781#0" expanded="false" />
+            <element signature="e#44838#44839#0" expanded="false" />
+            <element signature="e#44888#44889#0" expanded="false" />
+            <element signature="e#44950#44951#0" expanded="false" />
+            <element signature="e#45015#45016#0" expanded="false" />
+            <element signature="e#45070#45071#0" expanded="false" />
+            <element signature="e#45135#45136#0" expanded="false" />
+            <element signature="e#45190#45191#0" expanded="false" />
+            <element signature="e#45255#45256#0" expanded="false" />
+            <element signature="e#45285#45286#0" expanded="false" />
+            <element signature="e#45350#45351#0" expanded="false" />
+            <element signature="e#45477#45478#0" expanded="false" />
+            <element signature="e#45518#45519#0" expanded="false" />
+            <element signature="e#45599#45600#0" expanded="false" />
+            <element signature="e#45664#45665#0" expanded="false" />
+            <element signature="e#45767#45768#0" expanded="false" />
+            <element signature="e#45829#45830#0" expanded="false" />
+            <element signature="e#45922#45923#0" expanded="false" />
+            <element signature="e#45974#45975#0" expanded="false" />
+            <element signature="e#46075#46076#0" expanded="false" />
+            <element signature="e#46135#46136#0" expanded="false" />
+            <element signature="e#46897#46898#0" expanded="false" />
+            <element signature="e#46944#46945#0" expanded="false" />
+            <element signature="e#48325#48326#0" expanded="false" />
+            <element signature="e#48378#48379#0" expanded="false" />
+            <element signature="e#49053#49054#0" expanded="false" />
+            <element signature="e#49134#49135#0" expanded="false" />
+            <element signature="e#49187#49188#0" expanded="false" />
+            <element signature="e#49270#49271#0" expanded="false" />
+            <element signature="e#51301#51302#0" expanded="false" />
+            <element signature="e#51356#51357#0" expanded="false" />
+            <element signature="e#54847#54848#0" expanded="false" />
+            <element signature="e#54912#54913#0" expanded="false" />
+            <element signature="e#54960#54961#0" expanded="false" />
+            <element signature="e#55025#55026#0" expanded="false" />
+            <element signature="e#55062#55063#0" expanded="false" />
+            <element signature="e#55127#55128#0" expanded="false" />
+            <element signature="e#55349#55350#0" expanded="false" />
+            <element signature="e#55414#55415#0" expanded="false" />
+            <element signature="e#55493#55494#0" expanded="false" />
+            <element signature="e#55558#55559#0" expanded="false" />
+            <element signature="e#55628#55629#0" expanded="false" />
+            <element signature="e#55693#55694#0" expanded="false" />
+            <element signature="e#56434#56435#0" expanded="false" />
+            <element signature="e#56515#56516#0" expanded="false" />
+            <element signature="e#56554#56555#0" expanded="false" />
+            <element signature="e#56635#56636#0" expanded="false" />
+            <element signature="e#56674#56675#0" expanded="false" />
+            <element signature="e#56755#56756#0" expanded="false" />
+            <element signature="e#56857#56858#0" expanded="false" />
+            <element signature="e#56923#56924#0" expanded="false" />
+            <element signature="e#58225#58226#0" expanded="false" />
+            <element signature="e#58260#58261#0" expanded="false" />
+            <element signature="e#58824#58825#0" expanded="false" />
+            <element signature="e#58883#58884#0" expanded="false" />
+            <element signature="e#59713#59714#0" expanded="false" />
+            <element signature="e#59760#59761#0" expanded="false" />
+            <element signature="e#60591#60592#0" expanded="false" />
+            <element signature="e#60656#60657#0" expanded="false" />
+            <element signature="e#60694#60695#0" expanded="false" />
+            <element signature="e#60759#60760#0" expanded="false" />
+            <element signature="e#60821#60822#0" expanded="false" />
+            <element signature="e#60886#60887#0" expanded="false" />
+            <element signature="e#60916#60917#0" expanded="false" />
+            <element signature="e#60981#60982#0" expanded="false" />
+            <element signature="e#62220#62221#0" expanded="false" />
+            <element signature="e#62261#62262#0" expanded="false" />
+            <element signature="e#62500#62501#0" expanded="false" />
+            <element signature="e#62565#62566#0" expanded="false" />
+            <element signature="e#62642#62643#0" expanded="false" />
+            <element signature="e#62707#62708#0" expanded="false" />
+            <element signature="e#62790#62791#0" expanded="false" />
+            <element signature="e#62855#62856#0" expanded="false" />
+            <element signature="e#62917#62918#0" expanded="false" />
+            <element signature="e#62982#62983#0" expanded="false" />
+            <element signature="e#65205#65206#0" expanded="false" />
+            <element signature="e#65255#65256#0" expanded="false" />
+            <element signature="e#66138#66139#0" expanded="false" />
+            <element signature="e#66201#66202#0" expanded="false" />
+            <element signature="e#66280#66281#0" expanded="false" />
+            <element signature="e#66350#66351#0" expanded="false" />
+            <element signature="e#66424#66425#0" expanded="false" />
+            <element signature="e#66490#66491#0" expanded="false" />
+            <element signature="e#66590#66591#0" expanded="false" />
+            <element signature="e#66674#66675#0" expanded="false" />
+            <element signature="e#66774#66775#0" expanded="false" />
+            <element signature="e#66838#66839#0" expanded="false" />
+            <element signature="e#67176#67177#0" expanded="false" />
+            <element signature="e#67257#67258#0" expanded="false" />
+            <element signature="e#67337#67338#0" expanded="false" />
+            <element signature="e#67417#67418#0" expanded="false" />
+            <element signature="e#67687#67688#0" expanded="false" />
+            <element signature="e#67753#67754#0" expanded="false" />
+            <element signature="e#67804#67805#0" expanded="false" />
+            <element signature="e#67892#67893#0" expanded="false" />
+            <element signature="e#67935#67936#0" expanded="false" />
+            <element signature="e#68024#68025#0" expanded="false" />
+            <element signature="e#71443#71444#0" expanded="false" />
+            <element signature="e#71524#71525#0" expanded="false" />
+            <element signature="e#81688#81689#0" expanded="false" />
+            <element signature="e#81742#81743#0" expanded="false" />
+            <element signature="e#82552#82553#0" expanded="false" />
+            <element signature="e#82614#82615#0" expanded="false" />
+            <element signature="e#82649#82650#0" expanded="false" />
+            <element signature="e#82714#82715#0" expanded="false" />
+            <element signature="e#82758#82759#0" expanded="false" />
+            <element signature="e#82825#82826#0" expanded="false" />
+            <element signature="e#82861#82862#0" expanded="false" />
+            <element signature="e#82926#82927#0" expanded="false" />
+            <element signature="e#82966#82967#0" expanded="false" />
+            <element signature="e#83032#83033#0" expanded="false" />
+            <element signature="e#83073#83074#0" expanded="false" />
+            <element signature="e#83153#83154#0" expanded="false" />
+            <element signature="e#83188#83189#0" expanded="false" />
+            <element signature="e#83250#83251#0" expanded="false" />
+            <element signature="e#83292#83293#0" expanded="false" />
+            <element signature="e#83357#83358#0" expanded="false" />
+            <element signature="e#83415#83416#0" expanded="false" />
+            <element signature="e#83488#83489#0" expanded="false" />
+            <element signature="e#83550#83551#0" expanded="false" />
+            <element signature="e#83618#83619#0" expanded="false" />
+            <element signature="e#83673#83674#0" expanded="false" />
+            <element signature="e#83744#83745#0" expanded="false" />
+            <element signature="e#83799#83800#0" expanded="false" />
+            <element signature="e#83870#83871#0" expanded="false" />
+            <element signature="e#83900#83901#0" expanded="false" />
+            <element signature="e#83956#83957#0" expanded="false" />
+            <element signature="e#83991#83992#0" expanded="false" />
+            <element signature="e#84057#84058#0" expanded="false" />
+            <element signature="e#84185#84186#0" expanded="false" />
+            <element signature="e#84251#84252#0" expanded="false" />
+            <element signature="e#84332#84333#0" expanded="false" />
+            <element signature="e#84404#84405#0" expanded="false" />
+            <element signature="e#84468#84469#0" expanded="false" />
+            <element signature="e#84551#84552#0" expanded="false" />
+            <element signature="e#84605#84606#0" expanded="false" />
+            <element signature="e#84683#84684#0" expanded="false" />
+            <element signature="e#84745#84746#0" expanded="false" />
+            <element signature="e#84831#84832#0" expanded="false" />
+            <element signature="e#86062#86063#0" expanded="false" />
+            <element signature="e#86109#86110#0" expanded="false" />
+            <element signature="e#86174#86175#0" expanded="false" />
+            <element signature="e#86228#86229#0" expanded="false" />
+            <element signature="e#86489#86490#0" expanded="false" />
+            <element signature="e#86521#86522#0" expanded="false" />
+            <element signature="e#86571#86572#0" expanded="false" />
+            <element signature="e#86610#86611#0" expanded="false" />
+            <element signature="e#86806#86807#0" expanded="false" />
+            <element signature="e#86872#86873#0" expanded="false" />
+            <element signature="e#88520#88521#0" expanded="false" />
+            <element signature="e#88573#88574#0" expanded="false" />
+            <element signature="e#89118#89119#0" expanded="false" />
+            <element signature="e#89187#89188#0" expanded="false" />
+            <element signature="e#89841#89842#0" expanded="false" />
+            <element signature="e#89905#89906#0" expanded="false" />
+            <element signature="e#89931#89932#0" expanded="false" />
+            <element signature="e#89994#89995#0" expanded="false" />
+            <element signature="e#96714#96715#0" expanded="false" />
+            <element signature="e#96783#96784#0" expanded="false" />
+            <element signature="e#96818#96819#0" expanded="false" />
+            <element signature="e#96887#96888#0" expanded="false" />
+            <element signature="e#96932#96933#0" expanded="false" />
+            <element signature="e#97010#97011#0" expanded="false" />
+            <element signature="e#97058#97059#0" expanded="false" />
+            <element signature="e#97129#97130#0" expanded="false" />
+            <element signature="e#97166#97167#0" expanded="false" />
+            <element signature="e#97238#97239#0" expanded="false" />
+            <element signature="e#97278#97279#0" expanded="false" />
+            <element signature="e#97347#97348#0" expanded="false" />
+            <element signature="e#97390#97391#0" expanded="false" />
+            <element signature="e#97463#97464#0" expanded="false" />
+            <element signature="e#97658#97659#0" expanded="false" />
+            <element signature="e#97744#97745#0" expanded="false" />
+            <element signature="e#98225#98226#0" expanded="false" />
+            <element signature="e#98297#98298#0" expanded="false" />
+            <element signature="e#98367#98368#0" expanded="false" />
+            <element signature="e#98426#98427#0" expanded="false" />
+            <element signature="e#99511#99512#0" expanded="false" />
+            <element signature="e#99546#99547#0" expanded="false" />
+            <element signature="e#99614#99615#0" expanded="false" />
+            <element signature="e#99656#99657#0" expanded="false" />
+            <element signature="e#100283#100284#0" expanded="false" />
+            <element signature="e#100342#100343#0" expanded="false" />
+            <element signature="e#101602#101603#0" expanded="false" />
+            <element signature="e#101649#101650#0" expanded="false" />
+            <element signature="e#102253#102254#0" expanded="false" />
+            <element signature="e#102315#102316#0" expanded="false" />
+            <element signature="e#102350#102351#0" expanded="false" />
+            <element signature="e#102415#102416#0" expanded="false" />
+            <element signature="e#102464#102465#0" expanded="false" />
+            <element signature="e#102536#102537#0" expanded="false" />
+            <element signature="e#102589#102590#0" expanded="false" />
+            <element signature="e#102665#102666#0" expanded="false" />
+            <element signature="e#102700#102701#0" expanded="false" />
+            <element signature="e#102764#102765#0" expanded="false" />
+            <element signature="e#102804#102805#0" expanded="false" />
+            <element signature="e#102875#102876#0" expanded="false" />
+            <element signature="e#102913#102914#0" expanded="false" />
+            <element signature="e#102980#102981#0" expanded="false" />
+            <element signature="e#103044#103045#0" expanded="false" />
+            <element signature="e#103104#103105#0" expanded="false" />
+            <element signature="e#103134#103135#0" expanded="false" />
+            <element signature="e#103190#103191#0" expanded="false" />
+            <element signature="e#104256#104257#0" expanded="false" />
+            <element signature="e#104322#104323#0" expanded="false" />
+            <element signature="e#104357#104358#0" expanded="false" />
+            <element signature="e#104423#104424#0" expanded="false" />
+            <element signature="e#104717#104718#0" expanded="false" />
+            <element signature="e#104781#104782#0" expanded="false" />
+            <element signature="e#105022#105023#0" expanded="false" />
+            <element signature="e#105101#105102#0" expanded="false" />
+            <element signature="e#105177#105178#0" expanded="false" />
+            <element signature="e#105251#105252#0" expanded="false" />
+            <element signature="e#105482#105483#0" expanded="false" />
+            <element signature="e#105557#105558#0" expanded="false" />
+            <element signature="e#109174#109175#0" expanded="false" />
+            <element signature="e#109243#109244#0" expanded="false" />
+            <element signature="e#109874#109875#0" expanded="false" />
+            <element signature="e#109941#109942#0" expanded="false" />
+            <element signature="e#109970#109971#0" expanded="false" />
+            <element signature="e#110036#110037#0" expanded="false" />
+            <element signature="e#114419#114420#0" expanded="false" />
+            <element signature="e#114467#114468#0" expanded="false" />
+            <element signature="e#119978#119979#0" expanded="false" />
+            <element signature="e#120033#120034#0" expanded="false" />
+            <element signature="e#121469#121470#0" expanded="false" />
+            <element signature="e#121519#121520#0" expanded="false" />
+            <element signature="e#121574#121575#0" expanded="false" />
+            <element signature="e#121622#121623#0" expanded="false" />
+            <element signature="e#121677#121678#0" expanded="false" />
+            <element signature="e#121725#121726#0" expanded="false" />
+            <element signature="e#124180#124181#0" expanded="false" />
+            <element signature="e#124229#124230#0" expanded="false" />
+            <element signature="e#125893#125894#0" expanded="false" />
+            <element signature="e#125947#125948#0" expanded="false" />
+            <element signature="e#128176#128177#0" expanded="false" />
+            <element signature="e#128224#128225#0" expanded="false" />
+            <element signature="e#131041#131042#0" expanded="false" />
+            <element signature="e#131117#131118#0" expanded="false" />
+            <element signature="e#131170#131171#0" expanded="false" />
+            <element signature="e#131248#131249#0" expanded="false" />
+            <element signature="e#134205#134206#0" expanded="false" />
+            <element signature="e#134291#134292#0" expanded="false" />
+            <element signature="e#137382#137383#0" expanded="false" />
+            <element signature="e#137448#137449#0" expanded="false" />
+            <element signature="e#137497#137498#0" expanded="false" />
+            <element signature="e#137556#137557#0" expanded="false" />
+            <element signature="e#137627#137628#0" expanded="false" />
+            <element signature="e#137694#137695#0" expanded="false" />
+            <element signature="e#138474#138475#0" expanded="false" />
+            <element signature="e#138533#138534#0" expanded="false" />
+            <element signature="e#138573#138574#0" expanded="false" />
+            <element signature="e#138632#138633#0" expanded="false" />
+            <element signature="e#138734#138735#0" expanded="false" />
+            <element signature="e#138800#138801#0" expanded="false" />
+            <element signature="e#139589#139590#0" expanded="false" />
+            <element signature="e#139625#139626#0" expanded="false" />
+            <element signature="e#139951#139952#0" expanded="false" />
+            <element signature="e#139992#139993#0" expanded="false" />
+            <element signature="e#146154#146155#0" expanded="false" />
+            <element signature="e#146195#146196#0" expanded="false" />
+            <element signature="e#146594#146595#0" expanded="false" />
+            <element signature="e#146645#146646#0" expanded="false" />
+            <element signature="e#149201#149202#0" expanded="false" />
+            <element signature="e#149274#149275#0" expanded="false" />
+            <element signature="e#149849#149850#0" expanded="false" />
+            <element signature="e#149937#149938#0" expanded="false" />
+            <element signature="e#152952#152953#0" expanded="false" />
+            <element signature="e#153012#153013#0" expanded="false" />
+            <element signature="e#153068#153069#0" expanded="false" />
+            <element signature="e#153127#153128#0" expanded="false" />
+            <element signature="e#159181#159182#0" expanded="false" />
+            <element signature="e#159267#159268#0" expanded="false" />
+            <element signature="e#159318#159319#0" expanded="false" />
+            <element signature="e#159406#159407#0" expanded="false" />
+            <element signature="e#164752#164753#0" expanded="false" />
+            <element signature="e#164800#164801#0" expanded="false" />
+            <element signature="e#164852#164853#0" expanded="false" />
+            <element signature="e#164933#164934#0" expanded="false" />
+            <element signature="e#164986#164987#0" expanded="false" />
+            <element signature="e#165068#165069#0" expanded="false" />
+            <element signature="e#167000#167001#0" expanded="false" />
+            <element signature="e#167065#167066#0" expanded="false" />
+            <element signature="e#167497#167498#0" expanded="false" />
+            <element signature="e#167551#167552#0" expanded="false" />
+            <element signature="e#168750#168751#0" expanded="false" />
+            <element signature="e#168823#168824#0" expanded="false" />
+            <element signature="e#170115#170116#0" expanded="false" />
+            <element signature="e#170189#170190#0" expanded="false" />
+            <element signature="e#171523#171524#0" expanded="false" />
+            <element signature="e#171564#171565#0" expanded="false" />
+            <element signature="e#172396#172397#0" expanded="false" />
+            <element signature="e#172450#172451#0" expanded="false" />
+            <element signature="e#172797#172798#0" expanded="false" />
+            <element signature="e#172837#172838#0" expanded="false" />
+            <element signature="e#175306#175307#0" expanded="false" />
+            <element signature="e#175349#175350#0" expanded="false" />
+            <element signature="e#175623#175624#0" expanded="false" />
+            <element signature="e#175669#175670#0" expanded="false" />
+            <element signature="e#175717#175718#0" expanded="false" />
+            <element signature="e#175767#175768#0" expanded="false" />
+            <element signature="e#176219#176220#0" expanded="false" />
+            <element signature="e#176295#176296#0" expanded="false" />
+            <element signature="e#176338#176339#0" expanded="false" />
+            <element signature="e#176414#176415#0" expanded="false" />
+            <element signature="e#176699#176700#0" expanded="false" />
+            <element signature="e#176755#176756#0" expanded="false" />
+            <element signature="e#176962#176963#0" expanded="false" />
+            <element signature="e#177016#177017#0" expanded="false" />
+            <element signature="e#177203#177204#0" expanded="false" />
+            <element signature="e#177244#177245#0" expanded="false" />
+            <element signature="e#178258#178259#0" expanded="false" />
+            <element signature="e#178301#178302#0" expanded="false" />
+            <element signature="e#180623#180624#0" expanded="false" />
+            <element signature="e#180699#180700#0" expanded="false" />
+            <element signature="e#180922#180923#0" expanded="false" />
+            <element signature="e#180965#180966#0" expanded="false" />
+            <element signature="e#181055#181056#0" expanded="false" />
+            <element signature="e#181109#181110#0" expanded="false" />
+            <element signature="e#181339#181340#0" expanded="false" />
+            <element signature="e#181404#181405#0" expanded="false" />
+            <element signature="e#181481#181482#0" expanded="false" />
+            <element signature="e#181546#181547#0" expanded="false" />
+            <element signature="e#181629#181630#0" expanded="false" />
+            <element signature="e#181694#181695#0" expanded="false" />
+            <element signature="e#181756#181757#0" expanded="false" />
+            <element signature="e#181821#181822#0" expanded="false" />
+            <element signature="e#182706#182707#0" expanded="false" />
+            <element signature="e#182746#182747#0" expanded="false" />
+            <element signature="e#183154#183155#0" expanded="false" />
+            <element signature="e#183198#183199#0" expanded="false" />
+            <element signature="e#183375#183376#0" expanded="false" />
+            <element signature="e#183421#183422#0" expanded="false" />
+            <element signature="e#183668#183669#0" expanded="false" />
+            <element signature="e#183741#183742#0" expanded="false" />
+            <element signature="e#184416#184417#0" expanded="false" />
+            <element signature="e#184459#184460#0" expanded="false" />
+            <element signature="e#184897#184898#0" expanded="false" />
+            <element signature="e#184949#184950#0" expanded="false" />
+            <element signature="e#185013#185014#0" expanded="false" />
+            <element signature="e#185055#185056#0" expanded="false" />
+            <element signature="e#185733#185734#0" expanded="false" />
+            <element signature="e#185790#185791#0" expanded="false" />
+            <element signature="e#186025#186026#0" expanded="false" />
+            <element signature="e#186071#186072#0" expanded="false" />
+            <element signature="e#186135#186136#0" expanded="false" />
+            <element signature="e#186195#186196#0" expanded="false" />
+            <element signature="e#186276#186277#0" expanded="false" />
+            <element signature="e#186341#186342#0" expanded="false" />
+            <element signature="e#186747#186748#0" expanded="false" />
+            <element signature="e#186792#186793#0" expanded="false" />
+            <element signature="e#187167#187168#0" expanded="false" />
+            <element signature="e#187224#187225#0" expanded="false" />
+            <element signature="e#187662#187663#0" expanded="false" />
+            <element signature="e#187708#187709#0" expanded="false" />
+            <element signature="e#187789#187790#0" expanded="false" />
+            <element signature="e#187854#187855#0" expanded="false" />
+            <element signature="e#187932#187933#0" expanded="false" />
+            <element signature="e#187997#187998#0" expanded="false" />
+            <element signature="e#188141#188142#0" expanded="false" />
+            <element signature="e#188201#188202#0" expanded="false" />
+            <element signature="e#188769#188770#0" expanded="false" />
+            <element signature="e#188822#188823#0" expanded="false" />
+            <element signature="e#190010#190026#0" expanded="false" />
+            <element signature="e#190398#190399#0" expanded="false" />
+            <element signature="e#190458#190459#0" expanded="false" />
+            <element signature="e#190548#190549#0" expanded="false" />
+            <element signature="e#190591#190592#0" expanded="false" />
+            <element signature="e#190830#190831#0" expanded="false" />
+            <element signature="e#190895#190896#0" expanded="false" />
+            <element signature="e#190972#190973#0" expanded="false" />
+            <element signature="e#191037#191038#0" expanded="false" />
+            <element signature="e#191120#191121#0" expanded="false" />
+            <element signature="e#191185#191186#0" expanded="false" />
+            <element signature="e#191247#191248#0" expanded="false" />
+            <element signature="e#191312#191313#0" expanded="false" />
+            <element signature="e#193612#193613#0" expanded="false" />
+            <element signature="e#193644#193645#0" expanded="false" />
+            <element signature="e#193691#193692#0" expanded="false" />
+            <element signature="e#193748#193749#0" expanded="false" />
+            <element signature="e#193788#193789#0" expanded="false" />
+            <element signature="e#193839#193840#0" expanded="false" />
+            <element signature="e#193883#193884#0" expanded="false" />
+            <element signature="e#193938#193939#0" expanded="false" />
+            <element signature="e#195578#195579#0" expanded="false" />
+            <element signature="e#195653#195654#0" expanded="false" />
+            <element signature="e#195716#195717#0" expanded="false" />
+            <element signature="e#195802#195803#0" expanded="false" />
+            <element signature="e#195867#195868#0" expanded="false" />
+            <element signature="e#195920#195921#0" expanded="false" />
+            <element signature="e#197058#197059#0" expanded="false" />
+            <element signature="e#197128#197129#0" expanded="false" />
+            <element signature="e#197522#197523#0" expanded="false" />
+            <element signature="e#197569#197570#0" expanded="false" />
+            <element signature="e#197724#197725#0" expanded="false" />
+            <element signature="e#197780#197781#0" expanded="false" />
+            <element signature="e#199575#199576#0" expanded="false" />
+            <element signature="e#199625#199626#0" expanded="false" />
+            <element signature="e#199856#199857#0" expanded="false" />
+            <element signature="e#199921#199922#0" expanded="false" />
+            <element signature="e#199982#199983#0" expanded="false" />
+            <element signature="e#200016#200017#0" expanded="false" />
+            <element signature="e#200646#200647#0" expanded="false" />
+            <element signature="e#200696#200697#0" expanded="false" />
+            <element signature="e#200734#200735#0" expanded="false" />
+            <element signature="e#200781#200782#0" expanded="false" />
+            <element signature="e#201866#201867#0" expanded="false" />
+            <element signature="e#201924#201925#0" expanded="false" />
+            <element signature="e#210534#210535#0" expanded="false" />
+            <element signature="e#210578#210579#0" expanded="false" />
+            <element signature="e#212293#212294#0" expanded="false" />
+            <element signature="e#212334#212335#0" expanded="false" />
+            <element signature="e#212415#212416#0" expanded="false" />
+            <element signature="e#212464#212465#0" expanded="false" />
+            <element signature="e#213891#213892#0" expanded="false" />
+            <element signature="e#213938#213939#0" expanded="false" />
+            <element signature="e#215786#215787#0" expanded="false" />
+            <element signature="e#215835#215836#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SentenceSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestIncreasingPathinaMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/QueueReconstructionbyHeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/PalindromicSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MapSumPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SplitLinkedListinParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2184,7 +3227,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2209,7 +3252,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2221,6 +3264,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lombok-1.16.18</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -7,4 +7,8 @@ package leetcode;
  * Version : 2.0
  */
 public class SplitLinkedListinParts {
+
+    public ListNode[] splitListToParts(ListNode root, int k) {
+
+    }
 }
